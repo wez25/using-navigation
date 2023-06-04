@@ -1,0 +1,48 @@
+body{
+	background-image: url('bg1.jpg');
+	background-size: 120%;
+	background-position: center;
+}
+
+p {
+	color: gold;
+	font-size: 25px;
+}
+
+#p {
+	color: gold;
+	font-size: 30px;
+}
+
+.main1
+{
+color:white;
+background-color:dimgrey;
+ width: 700px;
+ height: 300px;
+font-size:20px;
+overflow:scroll;
+
+padding:20px 50px 50px 50px;
+
+}
+
+p.sample8
+{font-size:30px;
+    color:orange; 
+     border:10px double lightblue;
+
+}
+
+.main2
+{
+color: white;
+background-color:black;
+ width: 700px;
+ height: 300px;
+font-size:20px;
+padding:20px 50px 50px 50px;
+text-shadow:2px 2px 8px white;
+border: 30px solid blue;
+margin: 20px 20px 20px 20px;
+}

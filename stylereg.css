@@ -1,0 +1,17 @@
+body{
+	background-image: url('bg1.jpg');
+	background-size: 100%;
+}
+a {
+	color: lightgrey;
+	text-decoration: none;
+	font-size: 30px;
+}
+
+a:hover {
+	font-size: 40pt;
+	color: skyblue;
+}
+
+
+}
